@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TicketToRideClient</string>
+    <string name="user_name_title">Username:</string>
+    <string name="password_title">Password:</string>
+    <string name="login_button_title">Login</string>
+    <string name="register_button_title">Register</string>
+    <string name="available_games_title">Available Games:</string>
+    <string name="game_name_title">Game Name:</string>
+    <string name="number_of_players_title">Number of Players (2 &#45; 5):</string>
+    <string name="create_game_button">Create Game</string>
+    <string name="created_by_title">Created By: </string>
+    <string name="game_welcome_title">Welcome to the game!</string>
+    <string name="ready">Ready</string>
+    <string name="game_setup_title">Select card to discard or click ready</string>
+    <string name="draw_train_card_button_title">"Draw Train Cards"</string>
+    <string name="draw_dest_card_button_title">"Draw Dest Cards"</string>
+    <string name="claim_route_button_title">"Claim Route"</string>
+    <string name="deck_title">Deck</string>
+    <string name="draw_train_card_directions">Select cards to draw</string>
+    <string name="claim_selected_route_button_title">Claim selected route</string>
+    <string name="claim_route_frag_title">Select route to claim then press button</string>
+    <string name="magic_button">Magic Button</string>
+    <string name="chat_hint">Enter a message</string>
+    <string name="dest_cards">Dest. Cards</string>
+    <string name="game_history">Game \n History</string>
+    <string name="chat">Chat</string>
+    <string name="exit">Exit</string>
+    <string name="points">Pts.</string>
+    <string name="pieces">Pcs.</string>
+    <string name="destination">Dst.</string>
+    <string name="cards">Cds.</string>
+    <string name="routes">Rts.</string>
+    <string name="destinationplus">Dst+.</string>
+    <string name="destinationnegative">Dst-.</string>
+    <string name="routepoints">RtPt.</string>
+
+    <string name="draw_dest_card_directions">Select up to two destination cards \n to discard or press ready button \n to keep all 3.</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

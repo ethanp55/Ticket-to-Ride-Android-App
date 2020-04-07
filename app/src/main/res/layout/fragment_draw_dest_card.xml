@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/draw_dest_card_fragment"
+    android:layout_width="275dp"
+    android:layout_height="match_parent"
+    tools:context=".View.Fragment.DrawTrainCardFragment">
+
+    <Button
+        android:id="@+id/deck_button_dest"
+        android:layout_width="85dp"
+        android:layout_height="116dp"
+        android:text="@string/deck_title"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.915"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.391"
+        tools:layout_conversion_absoluteHeight="125dp"
+        tools:layout_conversion_absoluteWidth="96dp" />
+
+    <Button
+        android:id="@+id/ready_button_dest"
+        android:layout_width="79dp"
+        android:layout_height="47dp"
+        android:text="@string/ready"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.918"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.895"
+        tools:layout_conversion_absoluteHeight="125dp"
+        tools:layout_conversion_absoluteWidth="96dp" />
+
+    <Button
+        android:id="@+id/dest_card_1_draw"
+        android:layout_width="131dp"
+        android:layout_height="77dp"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.111"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.228"
+        tools:layout_conversion_absoluteHeight="44dp"
+        tools:layout_conversion_absoluteWidth="96dp" />
+
+    <Button
+        android:id="@+id/dest_card_2_draw"
+        android:layout_width="131dp"
+        android:layout_height="77dp"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.111"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.595"
+        tools:layout_conversion_absoluteHeight="44dp"
+        tools:layout_conversion_absoluteWidth="96dp" />
+
+    <Button
+        android:id="@+id/dest_card_3_draw"
+        android:layout_width="131dp"
+        android:layout_height="77dp"
+        android:textSize="12sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.111"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.961"
+        tools:layout_conversion_absoluteHeight="44dp"
+        tools:layout_conversion_absoluteWidth="96dp" />
+
+    <TextView
+        android:id="@+id/draw_dest_card_header"
+        android:layout_width="261dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        android:text="@string/draw_dest_card_directions"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.008" />
+
+
+</android.support.constraint.ConstraintLayout>

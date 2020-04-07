@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="2dp"
+    android:paddingTop="2dp">
+
+
+    <TextView
+        android:id="@+id/playerName"
+        android:layout_width="72dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:text="Player1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"/>
+
+    <TextView
+        android:id="@+id/totalPoints"
+        android:layout_width="24dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:text="0"
+        app:layout_constraintStart_toEndOf="@+id/playerName"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"/>
+
+    <TextView
+        android:id="@+id/destinationGaine"
+        android:layout_width="24dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:text="45"
+        app:layout_constraintStart_toEndOf="@+id/totalPoints"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"/>
+
+    <TextView
+        android:id="@+id/destinationLost"
+        android:layout_width="24dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:text="3"
+        app:layout_constraintStart_toEndOf="@+id/destinationGaine"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"/>
+
+    <TextView
+        android:id="@+id/cardsHeld"
+        android:layout_width="24dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:text="6"
+        app:layout_constraintStart_toEndOf="@+id/destinationLost"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"/>
+
+    <TextView
+        android:id="@+id/routes"
+        android:layout_width="24dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="2dp"
+        android:text="2"
+        app:layout_constraintStart_toEndOf="@+id/cardsHeld"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autoSizeTextType="uniform"
+        android:autoSizeMinTextSize="12sp"
+        android:autoSizeMaxTextSize="100sp"
+        android:autoSizeStepGranularity="2sp"/>
+</android.support.constraint.ConstraintLayout>
