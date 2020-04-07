@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [com.android.support:design:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d39a898a35177d9a99edf915bc16e21/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6f36cc3d873d7604ecd8ad72a0a0028f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92e3fe8bf1539820f76d3e046027707a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6d6cdc398b84ccb00b8474a7a5eb98ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3a602cde0c792a0e45108d00877a406f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6546599d84e0e748da7ce3cf03cf3c6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/db3ceb68eb2a7cf58f66f15142c161ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/87a56874aaf16404a1f3407ab7675028/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/daea5695389c107ac32b79a2f27e4790/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6a66c33ed166dde6dd38c6238534b5dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/170a7334b7b00809be80fc7e648be28d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/35f1727b518f19ea377f940267d064e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a47904be2ea815cc99baf9d56cdac207/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1aa5b16e35759c8fb51d09f34445b8a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bf0831151cf1880b57e0f9262ae46898/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/05581e4b8c77994ae1788aade5411e2d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/716c3c0db806dfe11d4b4de2c2955371/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/11b7d2e229e61606f7df07badac12482/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ffe1b971328d80a9ad23bb1952e1c2d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f5258e7c14cdb2200bc833c2177fa24d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95f76c8df7e36e6527eb6fca787f8c1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c7211c15e555b104fed19285dc81e00b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5a960c0a589c341d20eb22b88dc8fa4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3d31bf3ca48c4e02d93dd8fce37257b1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/717e81392cf44381e780fc19ae2f3d88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/febea1a93e57d81ef9c57614b6695a8e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/185db70193f4bd35571c227efc03621d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7867aa18be18e5800fa91f6a87aee786/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fa01efedd2bdb94f1776019f60b0148d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/641ad6f69d7583c0b681f41e563c368f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0f9281ab7721f24d7ef1d03732420b35/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.android.support:design:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d39a898a35177d9a99edf915bc16e21/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d39a898a35177d9a99edf915bc16e21/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92e3fe8bf1539820f76d3e046027707a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92e3fe8bf1539820f76d3e046027707a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ffe1b971328d80a9ad23bb1952e1c2d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ffe1b971328d80a9ad23bb1952e1c2d/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f5258e7c14cdb2200bc833c2177fa24d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f5258e7c14cdb2200bc833c2177fa24d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ffe1b971328d80a9ad23bb1952e1c2d/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:14:9-40
+activity#ateam.tickettoride.View.Activity.MainActivity
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:screenOrientation
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:15:62-98
+	android:name
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:15:19-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:19:27-74
+activity#ateam.tickettoride.View.Activity.GameActivity
+ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:22:9-101
+	android:screenOrientation
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:22:62-99
+	android:name
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml:22:19-61
+uses-sdk
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d39a898a35177d9a99edf915bc16e21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9d39a898a35177d9a99edf915bc16e21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6f36cc3d873d7604ecd8ad72a0a0028f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/6f36cc3d873d7604ecd8ad72a0a0028f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92e3fe8bf1539820f76d3e046027707a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/92e3fe8bf1539820f76d3e046027707a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6d6cdc398b84ccb00b8474a7a5eb98ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/6d6cdc398b84ccb00b8474a7a5eb98ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3a602cde0c792a0e45108d00877a406f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3a602cde0c792a0e45108d00877a406f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6546599d84e0e748da7ce3cf03cf3c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/6546599d84e0e748da7ce3cf03cf3c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/db3ceb68eb2a7cf58f66f15142c161ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/db3ceb68eb2a7cf58f66f15142c161ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/87a56874aaf16404a1f3407ab7675028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/87a56874aaf16404a1f3407ab7675028/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/daea5695389c107ac32b79a2f27e4790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/daea5695389c107ac32b79a2f27e4790/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6a66c33ed166dde6dd38c6238534b5dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/6a66c33ed166dde6dd38c6238534b5dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/170a7334b7b00809be80fc7e648be28d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/170a7334b7b00809be80fc7e648be28d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/35f1727b518f19ea377f940267d064e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/35f1727b518f19ea377f940267d064e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a47904be2ea815cc99baf9d56cdac207/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a47904be2ea815cc99baf9d56cdac207/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1aa5b16e35759c8fb51d09f34445b8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/1aa5b16e35759c8fb51d09f34445b8a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bf0831151cf1880b57e0f9262ae46898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/bf0831151cf1880b57e0f9262ae46898/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/05581e4b8c77994ae1788aade5411e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/05581e4b8c77994ae1788aade5411e2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/716c3c0db806dfe11d4b4de2c2955371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/716c3c0db806dfe11d4b4de2c2955371/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/11b7d2e229e61606f7df07badac12482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/11b7d2e229e61606f7df07badac12482/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ffe1b971328d80a9ad23bb1952e1c2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/6ffe1b971328d80a9ad23bb1952e1c2d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f5258e7c14cdb2200bc833c2177fa24d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/f5258e7c14cdb2200bc833c2177fa24d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95f76c8df7e36e6527eb6fca787f8c1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/95f76c8df7e36e6527eb6fca787f8c1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c7211c15e555b104fed19285dc81e00b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/c7211c15e555b104fed19285dc81e00b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5a960c0a589c341d20eb22b88dc8fa4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/b5a960c0a589c341d20eb22b88dc8fa4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3d31bf3ca48c4e02d93dd8fce37257b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/3d31bf3ca48c4e02d93dd8fce37257b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/717e81392cf44381e780fc19ae2f3d88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/717e81392cf44381e780fc19ae2f3d88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/febea1a93e57d81ef9c57614b6695a8e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/febea1a93e57d81ef9c57614b6695a8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/185db70193f4bd35571c227efc03621d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/185db70193f4bd35571c227efc03621d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7867aa18be18e5800fa91f6a87aee786/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/7867aa18be18e5800fa91f6a87aee786/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fa01efedd2bdb94f1776019f60b0148d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/fa01efedd2bdb94f1776019f60b0148d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/641ad6f69d7583c0b681f41e563c368f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/641ad6f69d7583c0b681f41e563c368f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0f9281ab7721f24d7ef1d03732420b35/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/ethanp55/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0f9281ab7721f24d7ef1d03732420b35/AndroidManifest.xml:20:5-44
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+		ADDED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ethanp55/CS/CS340/TicketToRideMaster/ticket-to-ride/app/src/main/AndroidManifest.xml
