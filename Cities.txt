@@ -1,0 +1,108 @@
+Vancouver
+285
+132
+Calgary
+511
+101
+Winnipeg
+900
+119
+Sault St. Marie
+1314
+204
+Montreal
+1645
+91
+Boston
+1768
+193
+Toronto
+1503
+242
+New York
+1678
+322
+Pittsburgh
+1532
+400
+Washington
+1692
+480
+Raleigh
+1592
+596
+Charleston
+1640
+709
+Atlanta
+1477
+697
+Miami
+1695
+983
+New Orleans
+1308
+917
+Houston
+1149
+939
+Dallas
+1078
+867
+Little Rock
+1199
+724
+Nashville
+1389
+637
+Saint Louis
+1227
+570
+Chicago
+1306
+425
+Duluth
+1096
+319
+Omaha
+1041
+480
+Kansas City
+1077
+568
+Oklahoma City
+1043
+716
+El Paso
+765
+911
+Santa Fe
+773
+754
+Denver
+786
+598
+Helena
+684
+329
+Salt Lake City
+560
+543
+Las Vegas
+464
+733
+Phoenix
+559
+848
+Los Angeles
+352
+836
+San Francisco
+216
+653
+Portland
+243
+313
+Seattle
+280
+225

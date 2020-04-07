@@ -1,0 +1,600 @@
+Vancouver
+Calgary
+3
+gray
+0
+0
+Vancouver
+Seattle
+1
+gray
+12
+0
+Vancouver
+Seattle
+1
+gray
+-12
+0
+Calgary
+Seattle
+4
+gray
+6
+5
+Calgary
+Winnipeg
+6
+white
+0
+0
+Calgary
+Helena
+4
+gray
+0
+0
+Winnipeg
+Helena
+4
+blue
+0
+0
+Winnipeg
+Duluth
+4
+black
+0
+0
+Winnipeg
+Sault St. Marie
+6
+gray
+0
+0
+Sault St. Marie
+Duluth
+3
+gray
+0
+0
+Sault St. Marie
+Toronto
+2
+gray
+0
+0
+Sault St. Marie
+Montreal
+5
+black
+0
+0
+Montreal
+Toronto
+3
+gray
+0
+0
+Montreal
+New York
+3
+blue
+0
+0
+Montreal
+Boston
+2
+gray
+-8
+10
+Montreal
+Boston
+2
+gray
+8
+-10
+Boston
+New York
+2
+red
+10
+6
+Boston
+New York
+2
+yellow
+-10
+-6
+Toronto
+Duluth
+6
+purple
+0
+2
+Toronto
+Chicago
+4
+white
+-4
+-5
+Toronto
+Pittsburgh
+2
+gray
+0
+0
+New York
+Pittsburgh
+2
+white
+-13
+-20
+New York
+Pittsburgh
+2
+green
+0
+4
+New York
+Washington
+2
+orange
+-8
+2
+New York
+Washington
+2
+black
+19
+-1
+Pittsburgh
+Chicago
+3
+orange
+-4
+-18
+Pittsburgh
+Chicago
+3
+black
+0
+0
+Pittsburgh
+Washington
+2
+gray
+0
+0
+Pittsburgh
+Raleigh
+2
+gray
+0
+0
+Pittsburgh
+Nashville
+4
+yellow
+0
+0
+Pittsburgh
+Saint Louis
+5
+green
+0
+9
+Washington
+Raleigh
+2
+gray
+8
+5
+Washington
+Raleigh
+2
+gray
+-8
+-5
+Raleigh
+Nashville
+3
+black
+-3
+-9
+Raleigh
+Atlanta
+2
+gray
+3
+6
+Raleigh
+Atlanta
+2
+gray
+-12
+-11
+Raleigh
+Charleston
+2
+gray
+0
+0
+Charleston
+Miami
+4
+purple
+0
+0
+Charleston
+Atlanta
+2
+gray
+0
+10
+Atlanta
+Nashville
+1
+gray
+0
+0
+Atlanta
+Miami
+5
+blue
+-5
+6
+Atlanta
+New Orleans
+4
+orange
+6
+7
+Atlanta
+New Orleans
+4
+yellow
+-10
+-7
+Miami
+New Orleans
+6
+red
+0
+6
+New Orleans
+Little Rock
+3
+green
+3
+-1
+New Orleans
+Houston
+2
+gray
+0
+0
+Houston
+El Paso
+6
+green
+0
+6
+Houston
+Dallas
+1
+gray
+9
+-13
+Houston
+Dallas
+1
+gray
+-9
+9
+Dallas
+El Paso
+4
+red
+0
+6
+Dallas
+Oklahoma City
+2
+gray
+19
+-5
+Dallas
+Oklahoma City
+2
+gray
+-13
+5
+Dallas
+Little Rock
+2
+gray
+0
+0
+Little Rock
+Oklahoma City
+2
+gray
+0
+0
+Little Rock
+Nashville
+3
+white
+0
+0
+Little Rock
+Saint Louis
+2
+gray
+0
+0
+Nashville
+Saint Louis
+2
+gray
+-3
+5
+Saint Louis
+Kansas City
+2
+blue
+0
+-20
+Saint Louis
+Kansas City
+2
+purple
+0
+5
+Saint Louis
+Chicago
+2
+white
+9
+3
+Saint Louis
+Chicago
+2
+green
+-11
+-11
+Chicago
+Duluth
+3
+red
+2
+-3
+Chicago
+Omaha
+4
+blue
+0
+0
+Duluth
+Helena
+6
+orange
+0
+0
+Duluth
+Omaha
+2
+gray
+11
+5
+Duluth
+Omaha
+2
+gray
+-11
+-2
+Omaha
+Helena
+5
+red
+0
+0
+Omaha
+Denver
+4
+purple
+0
+0
+Omaha
+Kansas City
+1
+gray
+-9
+3
+Omaha
+Kansas City
+1
+gray
+14
+-5
+Kansas City
+Oklahoma City
+2
+gray
+-11
+0
+Kansas City
+Oklahoma City
+2
+gray
+17
+9
+Kansas City
+Denver
+4
+black
+0
+-7
+Kansas City
+Denver
+4
+orange
+2
+11
+Oklahoma City
+Denver
+4
+red
+-5
+5
+Oklahoma City
+Santa Fe
+3
+blue
+0
+0
+Oklahoma City
+El Paso
+5
+yellow
+0
+0
+El Paso
+Santa Fe
+2
+gray
+0
+0
+El Paso
+Phoenix
+3
+gray
+0
+0
+El Paso
+Los Angeles
+6
+black
+0
+11
+Santa Fe
+Phoenix
+3
+gray
+0
+0
+Santa Fe
+Denver
+2
+gray
+-2
+0
+Denver
+Phoenix
+5
+white
+-7
+-4
+Denver
+Salt Lake City
+3
+red
+0
+-19
+Denver
+Salt Lake City
+3
+yellow
+0
+7
+Denver
+Helena
+4
+green
+0
+0
+Helena
+Seattle
+6
+yellow
+0
+0
+Helena
+Salt Lake City
+3
+purple
+0
+0
+Salt Lake City
+Portland
+6
+blue
+0
+0
+Salt Lake City
+Las Vegas
+3
+orange
+6
+4
+Salt Lake City
+San Francisco
+5
+orange
+-4
+-11
+Salt Lake City
+San Francisco
+5
+white
+4
+9
+Las Vegas
+Los Angeles
+2
+gray
+-6
+-4
+Phoenix
+Los Angeles
+3
+gray
+0
+-7
+Los Angeles
+San Francisco
+3
+purple
+7
+-8
+Los Angeles
+San Francisco
+3
+yellow
+-11
+10
+San Francisco
+Portland
+5
+purple
+12
+0
+San Francisco
+Portland
+5
+green
+-14
+-2
+Portland
+Seattle
+1
+gray
+10
+7
+Portland
+Seattle
+1
+gray
+-12
+-5

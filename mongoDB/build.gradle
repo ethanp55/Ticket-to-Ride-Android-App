@@ -1,0 +1,15 @@
+apply plugin: 'java-library'
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation project(':persistence')
+    //    compile 'org.mongodb:mongodb-driver:3.9.1'
+    implementation files('libs/bson-3.9.1.jar')
+    implementation files('libs/mongodb-driver-3.9.1.jar')
+    implementation files('libs/mongodb-driver-core-3.9.1.jar')
+    implementation files('libs/junit-4.11.jar')
+    implementation files('libs/hamcrest-core-2.1-rc3.jar')
+}
+
+sourceCompatibility = "7"
+targetCompatibility = "7"

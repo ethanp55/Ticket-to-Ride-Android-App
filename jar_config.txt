@@ -1,0 +1,3 @@
+mock ateam.mockpersistence.MyFactory ./sqlite-jdbc-3.21.0.jar ./mockPersistence.jar
+mongo ateam.tickettoride.mongodb.MongoFactory ./bson-3.9.1.jar ./mongodb-driver-3.9.1.jar ./mongodb-driver-core-3.9.1.jar ./mongoDB.jar
+relational ateam.tickettoride.sqlitedb.SqliteFactory ./sqlite-jdbc-3.21.0.jar ./sqliteDB.jar
